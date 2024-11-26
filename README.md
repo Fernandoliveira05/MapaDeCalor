@@ -18,3 +18,6 @@
 | ESP32  | Componente       | Descrição                                |
 |------------|------------------|------------------------------------------|
 | Espaço para antena do ESP32     | Antena    | Antena para aumentar o alcance na busca por wi-fi do nosso ESP32                 |
+
+## Autor 
+[Fernando Soares de Oliveira](https://www.linkedin.com/in/fernando-soares-oliveira/)
