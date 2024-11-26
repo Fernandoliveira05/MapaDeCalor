@@ -21,7 +21,6 @@
 
 ## Código e confecção
 #### Código para o ESP32 ser capaz de emitir as informações para o Adafruit IO:
-[clique aqui para ver o arquivo completo.](Semana07/Semana07.ino)
 <td align="center"><a href="Semana07/Semana07.ino"><img style="border-radius: 10%; width: 100px; height: 100px;" src="assets/Arduino.png" alt="" /><br><sub><b>Código para o Arduino</b></sub></a></td>
 
 #### Adafruit IO
