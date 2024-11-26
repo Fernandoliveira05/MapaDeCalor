@@ -22,6 +22,7 @@
 ## Código e confecção
 #### Código para o ESP32 ser capaz de emitir as informações para o Adafruit IO:
 [clique aqui para ver o arquivo completo.](Semana07/Semana07.ino)
+<td align="center"><a href="Semana07/Semana07.ino"><img style="border-radius: 10%; width: 100px; height: 100px;" src="assets/Arduino.png" alt="" /><br><sub><b>Código para o Arduino</b></sub></a></td>
 
 #### Adafruit IO
 Para criar uma dashboard para visualização como a que desejamos, precisamos nos cadastrar no Adafruit IO e fornecer as informações como key e usuário, que serão únicas para cada novo usuário. A criação da visualização será feita a partir do próprio código, com o endpoint que informarmos por lá. 
