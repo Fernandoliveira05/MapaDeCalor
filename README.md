@@ -24,7 +24,7 @@
 <td align="center"><a href="Semana07/Semana07.ino"><img style="border-radius: 10%; width: 100px; height: 100px;" src="assets/Arduino.png" alt="" /><br><sub><b>Código para o Arduino</b></sub></a></td>
 
 #### Adafruit IO
-<td align="center"><a href="https://io.adafruit.com/LilFer777/overview"><img style="border-radius: 10%; width: 100px; height: 100px;" src="assets/Adafruit.png" alt="" /><br><sub><b>Adafruit</b></sub></a></td>
+<td align="center"><a href="https://io.adafruit.com/LilFer777/overview"><img style="border-radius: 10%; width: 100px; height: 100px;" src="assets/Adafruit.png" alt="" /><br><sub><b></b></sub></a></td>
 Para criar uma dashboard para visualização como a que desejamos, precisamos nos cadastrar no Adafruit IO e fornecer as informações como key e usuário, que serão únicas para cada novo usuário. A criação da visualização será feita a partir do próprio código, com o endpoint que informarmos por lá. 
 
 ## Autor 
